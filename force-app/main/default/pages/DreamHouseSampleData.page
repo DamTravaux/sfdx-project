@@ -8,7 +8,6 @@
             <apex:remoteObjectField name="Name" jsShorthand="name" />
             <apex:remoteObjectField name="Title__c" jsShorthand="title" />
             <apex:remoteObjectField name="Phone__c" jsShorthand="phone" />
-            <apex:remoteObjectField name="Mobile_Phone__c" jsShorthand="mobile_phone" />
             <apex:remoteObjectField name="Email__c" jsShorthand="email" />
             <apex:remoteObjectField name="Picture__c" jsShorthand="picture" />
         </apex:remoteObjectModel>
