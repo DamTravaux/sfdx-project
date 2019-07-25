@@ -68,7 +68,6 @@
                     name: "Caroline Kingsley",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "caroline@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg"
                 },
@@ -76,7 +75,6 @@
                     name: "Michael Jones",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "michael@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg"
                 },
@@ -84,7 +82,6 @@
                     name: "Jonathan Bradley",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "jonathan@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jonathan_bradley.jpg"
                 },
@@ -92,7 +89,6 @@
                     name: "Jennifer Wu",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "jen@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg"
                 },
@@ -100,7 +96,6 @@
                     name: "Olivia Green",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "olivia@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg"
                 },
@@ -108,7 +103,6 @@
                     name: "Miriam Aupont",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "miriam@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg"
                 },
@@ -116,7 +110,6 @@
                     name: "Michelle Lambert",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "michelle@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg"
                 },
@@ -124,7 +117,6 @@
                     name: "Victor Ochoa",
                     title: "Senior Broker",
                     phone: "617-244-3672",
-                    mobile_phone: "617-244-3672",
                     email: "victor@dreamhouse.demo",
                     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg"
                 }
